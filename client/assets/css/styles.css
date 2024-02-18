@@ -1,0 +1,12 @@
+.content-statistics {
+    text-align: center;
+}
+.content-statistics input {
+    font-size: 20px;
+    padding: 10px 20px;
+}
+.content-statistics button {
+    padding: 5px 50px;
+    font-size: 20px;
+    margin-top: 10px;
+}
